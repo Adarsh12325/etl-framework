@@ -104,7 +104,7 @@ No Python or PostgreSQL installation needed on your machine — everything runs 
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/Adarsh12325/etl-framework.git
 cd etl-framework
 
 # 2. Create your .env file (default values work out of the box)
